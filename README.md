@@ -1,6 +1,6 @@
 # Binding Expando and Dynamic Objects to the ASP.NET Core DataGrid Control
 
-A quick start ASP.NET Core web application demonstrating how to bind a dynamic list of objects using Expando and Dynamic Objects using Grid Control.
+A quick start ASP.NET Core web application demonstrating how to bind a dynamic list of objects using Expando and Dynamic Objects using Syncfusion Grid Control.
 
 * `ExpandoObject`: Allows dynamic members to be added or removed at runtime, useful for binding data to a Data Grid without a predefined model.
 * `DynamicObject`: Enables runtime definition of object structure and behavior by inheriting from DynamicObject and overriding methods like TryGetMember, TrySetMember, and GetDynamicMemberNames.
