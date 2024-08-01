@@ -13,13 +13,15 @@ A quick start ASP.NET Core web application demonstrating how to bind a dynamic l
 ---
 Demo:  https://ej2.syncfusion.com/aspnetcore/Grid/DefaultFunctionalities#/fluent
 
+## Project pre-requisites 
+Make sure you have compatible versions of the following IDE and framework installed on your machine before starting this project:
 
-## Project pre-requisites
-Make sure that you have compatible versions of
 * .NET SDK 6.0 ([.NET ](https://dotnet.microsoft.com/en-us/download))
 * Visual Studio 2022 ([Visual studio](https://visualstudio.microsoft.com/downloads/)) or later
+---
+To learn more about the supported IDE and frameworks for our ASP.NET Core controls, please refer to the documentation below: 
+https://ej2.syncfusion.com/aspnetcore/documentation/system-requirements
 
-installed in your machine before starting to work on this project
 
 
 ### How to run this application:
